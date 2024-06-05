@@ -12,7 +12,7 @@ A [YouTube clone](https://migrateshop.com/youtube-clone/) is an online platform 
 
 A YouTube clone seeks to match the success of the well-known platform with a large user base by offering comparable services catered to particular audiences or niches.
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“youtubeclone.png" src="" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“youtubeclone.png" src="https://github.com/migrateshop/youtube-clone/blob/main/images/youtube-clone-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 
 ## Importance of Starting a Video Sharing Platform
@@ -48,7 +48,7 @@ Launching a video-sharing platform with a [YouTube clone script](https://migrate
 
 By addressing these key aspects, you can create a successful video-sharing platform that meets your business objectives, provides an engaging user experience, and generates sustainable revenue streams with [YouTube clone](https://migrateshop.com/youtube-clone/).
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“youtubeclone.png" src="" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“youtubeclone.png" src="https://github.com/migrateshop/youtube-clone/blob/main/images/youtube-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 ### Conclusion
 In conclusion, launching a video sharing platform that requires careful consideration of various key aspects. Understanding the target audience's preferences, ensuring robust infrastructure for video hosting and streaming, implementing effective monetization strategies, fostering user engagement through social features, and prioritizing content moderation and copyright enforcement are crucial elements for success. 
